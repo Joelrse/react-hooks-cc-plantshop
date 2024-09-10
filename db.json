@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "dad",
+      "image": "",
+      "price": 0.02,
+      "id": 8
+    },
+    {
+      "name": "ddd",
+      "image": "",
+      "price": 0.02,
+      "id": 9
+    },
+    {
+      "name": "da",
+      "image": "",
+      "price": 0.01,
+      "id": 10
     }
   ]
 }
